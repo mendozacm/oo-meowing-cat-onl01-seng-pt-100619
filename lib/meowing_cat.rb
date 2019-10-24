@@ -1,6 +1,6 @@
 class Cat 
   def name(name)
-    @name
+    puts @name
   end
   def meow
     puts "meow!"
